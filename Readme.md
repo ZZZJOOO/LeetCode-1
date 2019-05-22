@@ -5,7 +5,9 @@
 
 ### LeetCode难题代码和算法要点分析
 #### 目前分类目录：
-[TOC]
+1. [Two Pointers](#Two Pointers)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
 #### [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
 [003.Longest Substring Without Repeating Character](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/003.Longest%20Substring%20Without%20Repeating%20Characters) (E+)  
 [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  
